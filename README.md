@@ -82,7 +82,8 @@ attendance-app/
 ### 1. Clone the repository
 ```bash
 git clone <your-repo-url>
-cd attendance-app
+cd Work--Hours--Tracking-System
+
 
 2. Install dependencies
   pip install -r requirements.txt
